@@ -1,0 +1,5 @@
+bluemap
+datapacks
+logs
+eula.txt
+automodpack

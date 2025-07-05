@@ -1,0 +1,13 @@
+name = "Countered's Settlement Roads"
+filename = "settlement-roads-2.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rrAGfOzL/versions/R5qlwTB0/settlement-roads-2.0.1.jar"
+hash-format = "sha512"
+hash = "2e7ca699809c8961c8f4bc5efbf4c6e88714028c350fd19292dbc1bd7e2fb0891c0ae8aead652ff5cd218bc3b35f7db997ae25767897247696aa4dea1b5717d5"
+
+[update]
+[update.modrinth]
+mod-id = "rrAGfOzL"
+version = "R5qlwTB0"
