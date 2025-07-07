@@ -1,4 +1,0 @@
-[common]
-
-	[common.worldGenerator]
-		distantGeneratorMode = "INTERNAL_SERVER"

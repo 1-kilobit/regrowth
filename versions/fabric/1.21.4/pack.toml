@@ -1,0 +1,13 @@
+name = "regrowth"
+author = "kilobit"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c007ddeb96cbeeae44f8845af3aa31c99284c72903e0624cbb1e07453826dd4c"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.4"
