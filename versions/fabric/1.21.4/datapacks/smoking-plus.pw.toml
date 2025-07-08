@@ -1,0 +1,13 @@
+name = "Smoking Plus"
+filename = "Smoking Plus 1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eKGiFrdh/versions/DO1p6NDZ/Smoking%20Plus%201.1.zip"
+hash-format = "sha512"
+hash = "91b46b569e7a89b9458233a6b9044c17ffa5b53f5f081fc011d90826da4c1ccde6705f616b2949899f3cb14232f5a32a12177ff854427d983a79db37e0753267"
+
+[update]
+[update.modrinth]
+mod-id = "eKGiFrdh"
+version = "DO1p6NDZ"
