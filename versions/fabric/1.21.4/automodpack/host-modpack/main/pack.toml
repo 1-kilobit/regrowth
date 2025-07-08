@@ -1,0 +1,12 @@
+name = "automodpack"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a5c0a8839f83746de72875944e4d83f2cd2e467c4a3d2ad3ad31a3b9ed025725"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.4"
