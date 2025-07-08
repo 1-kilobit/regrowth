@@ -1,5 +1,5 @@
 # Regrowth
-#### A server-side adventure modpack!
+**A server-side adventure modpack!**
 
 ### Vanilla friendly
 - All content is accessible via a vanilla client!
