@@ -1,3 +1,3 @@
 simulationDistance:8
-resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip"]
+resourcePacks:["vanilla","fabric","file/Better-Leaves-9.2.zip","file/cubic-sun-moon-v1.8.2a.zip","file/Chat Reporting Helper.zip"]
 onboardAccessibility:true
