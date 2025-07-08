@@ -1,4 +1,4 @@
 # Regrowth
-A lightweight adventure modpack utilizing automodpack.  
+A lightweight adventure modpack utilizing [automodpack](https://modrinth.com/mod/automodpack)
 
-Built on adrenaline and additive, your servers will thank you!
+Built on [Adrenaline](https://modrinth.com/modpack/adrenaline) and [Additive](https://modrinth.com/modpack/additive)
