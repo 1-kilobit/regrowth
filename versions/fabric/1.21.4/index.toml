@@ -6,7 +6,7 @@ hash = "e32d1b0a756ddefc57ed9f266c8a2cfe9adc1b59b8b02177b0d176acf91b1f9e"
 
 [[files]]
 file = "automodpack/host-modpack/main/config/isxander-main-menu-credits.json"
-hash = "8c0a9ed27cdedb015a48caab231398b277e0a5c7deb0f5d8c2b0be41e644e1dc"
+hash = "92bfdd1f2e0e7c7bc07cd3db1d95b8ea1648439aadbd0fbe1a9c5b5f9c2c37e7"
 
 [[files]]
 file = "automodpack/host-modpack/main/config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -82,7 +82,7 @@ hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
 [[files]]
 file = "automodpack/host-modpack/main/config/yosbr/config/resourcepackoverrides.json"
-hash = "d0e0dce7331f8bd951c0d8ce66e477e4894dc0cdf59e4781cff1c431722f0061"
+hash = "062fdd31a2ec3d4046e43d2600b653c80c4c6cd1ea4448a42fed2d264bbad5d0"
 
 [[files]]
 file = "automodpack/host-modpack/main/config/yosbr/config/ryoamiclights.toml"
@@ -449,6 +449,10 @@ file = "config/yosbr/config/mobcap_modifier.json5"
 hash = "ed83807a1dbbcfbfeeafd52702739d214bdea983ed51ba698a78227982866d4e"
 
 [[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "ed82e859a23e86efc2a2b4872702106c6fec877bdfdea1c1bcbca740ceed5172"
+
+[[files]]
 file = "datapacks/Amplified_Nether_1.21_v1.2.9.zip"
 hash = "cfd81c73def89d5fdedd00b1b4b5f99e9af2965bd389726188ecd7b26b6f025f"
 
@@ -505,10 +509,6 @@ file = "datapacks/spawnanimations-v1.10.2-mc1.17-1.21.6-datapack.zip"
 hash = "c4597b3c4894a760ab9e994d655f7dd60271ada32f3a4868232acf8bd751f8d9"
 
 [[files]]
-file = "lockedpaths.txt"
-hash = "274a1b443fc20410bdd2caa15709e1d8fe8ed16179a7bcceb99f98163a1273a9"
-
-[[files]]
 file = "mods/anti-xray.pw.toml"
 hash = "28bc9663ea1537d8a571cbf30bf7c66f413fe2cb05a73a91d8c2c11dfcacbacc"
 metafile = true
@@ -520,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/automodpack.pw.toml"
-hash = "a231b4c0e675653f913a52aa97037a9a076cea465ee92cad0402f4dcc97894c6"
+hash = "308d836e6795f93a402907e5dd8e47268a78a4bbe9fb8fb9652900f0d092c7ff"
 metafile = true
 
 [[files]]
