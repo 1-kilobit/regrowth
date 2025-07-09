@@ -109,6 +109,26 @@ file = "config/yosbr/options.txt"
 hash = "79f405655a1082d46f0b8c4ce0b7d6b0c485cd49fc8ce8280b493539a68be9c9"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "904b57dc7a3a80a1fdd56c2a3769502a940d3988cc4ee9e8ee9d94ba4cd2f086"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
+metafile = true
+
+[[files]]
+file = "mods/astrocraft.pw.toml"
+hash = "a73cebee4aae6c232d1f044e6cc1cba0365366517e91e7135cbe4fb839de67c3"
+metafile = true
+
+[[files]]
+file = "mods/automodpack.pw.toml"
+hash = "a231b4c0e675653f913a52aa97037a9a076cea465ee92cad0402f4dcc97894c6"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
 metafile = true
@@ -129,6 +149,11 @@ hash = "c764ec528a8f0a0608129136fa35538e174dea6bcd712285db0a15b2ba685d1f"
 metafile = true
 
 [[files]]
+file = "mods/clientsort.pw.toml"
+hash = "06ac499572af46f7e4d51a89e5dfcf7926e498feae86fb15e36b97fcb270deab"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
 metafile = true
@@ -144,8 +169,23 @@ hash = "f82e56c338c03436592a3e9746d0383f0d48e51bcbbf820917a1c40008a486b4"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "1911f529012bae6e7746e820e56fdcf791e053e9e9c6450fbdf6a23a742d9e8b"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "9edcc2fe253cfa858da7eb41fd1a28ba7f83b8ab569699d3da2c7fba7d588fe6"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "f32c30de1ae7dbeeae00b654eb15ea358c6d26f631dc292bdb88dba9c30a8cc8"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "2ad8cd5745efd0bd0f7f32f060bec092a7b2ef8ac3c6163033193a8277012e43"
 metafile = true
 
 [[files]]
@@ -194,6 +234,11 @@ hash = "a6619f77790d0ab7457aaa05fc336250fc53e237234e80e777a30bb4f7873bf5"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "0c689e71c7c6e5893deaa96881213505439e23273cfbb216d918c416c0124458"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "08114da8c86093301d6b6e07349709395599c4731626058a27a5395dd6369ff4"
 metafile = true
@@ -204,8 +249,18 @@ hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "e37dafa2222acea41769ea46d7e977c150fe25ac3b060469e2a4eb48adec5430"
+metafile = true
+
+[[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
 hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
+metafile = true
+
+[[files]]
+file = "mods/handful.pw.toml"
+hash = "0c35a39f97caa08f33c8453cad2770891ae128ab742543308387639f0f0f70b0"
 metafile = true
 
 [[files]]
@@ -264,8 +319,33 @@ hash = "88c6edc1712f4f0cd915cd723b9e0296924d454b3855a719d2962103b2b92bea"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "108aae1d2a8f03fffeb5f36e874d378d521f9779cf476e4e60b7f2a8043252f6"
+metafile = true
+
+[[files]]
+file = "mods/moremousetweaks.pw.toml"
+hash = "01c56b2540a2380580d67e3a221c74aeea5cc437f9234055b2f25ac566472607"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "4044051a3cb2ae86edab32775bbe99f2c379afde47d7fe0b1f8ff2897447a59e"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "fa77c1b667942c1a1bb5903d97172376e094ba923769cd428eaae02cc0b5ce7a"
 metafile = true
 
 [[files]]
@@ -299,8 +379,33 @@ hash = "6189a3ed8000d767e717392521a8fd1efdf4ce01ad82407990c29c7f919df980"
 metafile = true
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "522da8a16ca87bfa21414bfa6f330bda82f081edff21e33d2914c22a3b886b64"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "7ead84f8df46c7e292fb00079d11aa78d15724398b150db11d06e6713583fcb0"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "585e3b8144192b82e4fcbc36c4b1d8355789feb034acf8dd0d7f6c46692dd39c"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "46d2f0f9eb6e9c09618d92dea45977299330a55bca46fd4e2dda5e45d84ea641"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "fdc2b264bfae9dbef68222edc1c220708df9ecc9bb8fa74b79ce1ebab6fe5355"
+metafile = true
+
+[[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "611e7356de5165e6834c6bf71e1a2405980759602ce61fe82c287bbf62a20cd4"
 metafile = true
 
 [[files]]
@@ -314,6 +419,11 @@ hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "bb2f4145fdc981a3a54283567005b0ca59bda0458cda20781ab7e82a43477f76"
+metafile = true
+
+[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
 metafile = true
@@ -321,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "d3de87a755bc307790ae85f03dab53eddec2b19d906e4b5016e0e0c5004d65d0"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "045b0c73a67e3ba38635e0759b288b0f7e7cd524c351050f8de154023c043845"
 metafile = true
 
 [[files]]
