@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/automodpack.pw.toml"
-hash = "a231b4c0e675653f913a52aa97037a9a076cea465ee92cad0402f4dcc97894c6"
+hash = "308d836e6795f93a402907e5dd8e47268a78a4bbe9fb8fb9652900f0d092c7ff"
 metafile = true
 
 [[files]]
@@ -269,6 +269,11 @@ metafile = true
 [[files]]
 file = "mods/bluemap.pw.toml"
 hash = "0fab2a26e6692d71537da9565dd87137504ddb34653136fd9f7a7df084d47575"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "db16cd34b809cd98e78bf47cd03c8071d71b2b6c4c5e26ef5efed363207bbed2"
 metafile = true
 
 [[files]]
@@ -308,7 +313,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "18e346acc11ee4082d56b804810909a69010a26eb27ac1ac3840489a6ed754fb"
+hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
@@ -322,8 +332,23 @@ hash = "515b020926d1fd0b6d1a32d106a376ba2c77bc5587bed99cecbc2d944ad18a99"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "2b699ec9fd674b493af0e52bc3ecbbdb3dc890a6d70f132dc146d5331c0d5b28"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
+metafile = true
+
+[[files]]
 file = "mods/minimotd.pw.toml"
 hash = "4bf26ea0717ce4dae0537d2dda13cd170d896d0c9e59f0ed6087dc71552ea545"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "a874985359eaa4317b3242136fe65b86207a6d5ab55e0b4aa8f37b90727f0487"
 metafile = true
 
 [[files]]
@@ -342,8 +367,18 @@ hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "4044051a3cb2ae86edab32775bbe99f2c379afde47d7fe0b1f8ff2897447a59e"
+metafile = true
+
+[[files]]
 file = "mods/proper-mobcap-modifier.pw.toml"
 hash = "15c28c5e5d1bea0eef726348a7dd3d6cbbb9554399eedf93b59ab657ab80c2e5"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "585e3b8144192b82e4fcbc36c4b1d8355789feb034acf8dd0d7f6c46692dd39c"
 metafile = true
 
 [[files]]
@@ -354,6 +389,11 @@ metafile = true
 [[files]]
 file = "mods/skinshuffle.pw.toml"
 hash = "611e7356de5165e6834c6bf71e1a2405980759602ce61fe82c287bbf62a20cd4"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
 metafile = true
 
 [[files]]
@@ -372,8 +412,23 @@ hash = "fc8b37dc3009071f717c7de54dcb789b6aa56162eddc4f831c8e96f7444cbfdd"
 metafile = true
 
 [[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "d3de87a755bc307790ae85f03dab53eddec2b19d906e4b5016e0e0c5004d65d0"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "045b0c73a67e3ba38635e0759b288b0f7e7cd524c351050f8de154023c043845"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "e9b1a059e78cb42dbc46c30f7b16d28b1bb0df20f85f53d28992ea278214a511"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
@@ -433,4 +488,4 @@ metafile = true
 
 [[files]]
 file = "server.properties"
-hash = "2043aed04d33d58e6a28383420837ee87497071b3aa6a656119e859c341649ea"
+hash = "3ea13dd9c93aa8f7876214e2f6f92a5dcd45b34418dc5912971616f8122db722"
