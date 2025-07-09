@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/automodpack.pw.toml"
-hash = "308d836e6795f93a402907e5dd8e47268a78a4bbe9fb8fb9652900f0d092c7ff"
+hash = "a231b4c0e675653f913a52aa97037a9a076cea465ee92cad0402f4dcc97894c6"
 metafile = true
 
 [[files]]
@@ -269,11 +269,6 @@ metafile = true
 [[files]]
 file = "mods/bluemap.pw.toml"
 hash = "0fab2a26e6692d71537da9565dd87137504ddb34653136fd9f7a7df084d47575"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "62e99d55c3f95e732fbbb23572c70bd030a6c89f90844b8a74d1e527c0183696"
 metafile = true
 
 [[files]]
@@ -302,38 +297,18 @@ hash = "9ebd77a129fd9b2b635c290e037c0a8c4520cc3ea1f64448d1e5ef599ab4ed5b"
 metafile = true
 
 [[files]]
-file = "mods/countereds-terrain-slabs.pw.toml"
-hash = "c8ed93e459a05c75e36fc7252571c08c1cf0f4b7c086716de7401cdf01067049"
-metafile = true
-
-[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "bd31c2f58a8318819b0dbd35681015c90e2e8b2ff2552de7e0db90fec2857322"
 metafile = true
 
 [[files]]
-file = "mods/dataloader.pw.toml"
-hash = "7c6243cb0903bb8f900eaa0d64b2cd34d98630780065bc2d2b05e4d19fc2ce32"
+file = "mods/distanthorizons.pw.toml"
+hash = "2ad8cd5745efd0bd0f7f32f060bec092a7b2ef8ac3c6163033193a8277012e43"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
-metafile = true
-
-[[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
-metafile = true
-
-[[files]]
-file = "mods/forge-config-api-port.pw.toml"
-hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
-metafile = true
-
-[[files]]
-file = "mods/glitchcore.pw.toml"
-hash = "a2c985cf1b1774fe4e06a766c147bfa3e68e8cb16ce960c3f9c8a125de4777cf"
+hash = "18e346acc11ee4082d56b804810909a69010a26eb27ac1ac3840489a6ed754fb"
 metafile = true
 
 [[files]]
@@ -342,33 +317,13 @@ hash = "b72278fbe5e56c676b767e7c59fa2f4e2ecde955e63e29723249552e600deba2"
 metafile = true
 
 [[files]]
-file = "mods/immersive-snow.pw.toml"
-hash = "3a51ecf743a24ac5a93cfe8b6168ac21cf4c923d9f8715b98a58590c9f216f77"
-metafile = true
-
-[[files]]
 file = "mods/invview.pw.toml"
 hash = "515b020926d1fd0b6d1a32d106a376ba2c77bc5587bed99cecbc2d944ad18a99"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
-metafile = true
-
-[[files]]
-file = "mods/lithium.pw.toml"
-hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
-metafile = true
-
-[[files]]
 file = "mods/minimotd.pw.toml"
 hash = "4bf26ea0717ce4dae0537d2dda13cd170d896d0c9e59f0ed6087dc71552ea545"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-hash = "a874985359eaa4317b3242136fe65b86207a6d5ab55e0b4aa8f37b90727f0487"
 metafile = true
 
 [[files]]
@@ -387,28 +342,8 @@ hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
-metafile = true
-
-[[files]]
 file = "mods/proper-mobcap-modifier.pw.toml"
 hash = "15c28c5e5d1bea0eef726348a7dd3d6cbbb9554399eedf93b59ab657ab80c2e5"
-metafile = true
-
-[[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "cdff637d469d95a02e8e7475fce950c0d25bdacf8ae1246c93eea78ad7e16d39"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "9a52c0abc1a0ea0162a0c6700ed0d89d0dc5b073c80b09339cfb602d16e2686e"
-metafile = true
-
-[[files]]
-file = "mods/servercore.pw.toml"
-hash = "55cb0143330095f2132926ff85dd7264d627880e709bffea1bd1e03edc7eddbf"
 metafile = true
 
 [[files]]
@@ -422,13 +357,13 @@ hash = "611e7356de5165e6834c6bf71e1a2405980759602ce61fe82c287bbf62a20cd4"
 metafile = true
 
 [[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
+file = "mods/towns-and-towers.pw.toml"
+hash = "03779db3c7cbf7d5853647c3e800880468f8aeffb4bc7be174bbb0e243b0ea1a"
 metafile = true
 
 [[files]]
-file = "mods/towns-and-towers.pw.toml"
-hash = "03779db3c7cbf7d5853647c3e800880468f8aeffb4bc7be174bbb0e243b0ea1a"
+file = "mods/vanilla-refresh.pw.toml"
+hash = "9e7548c59397e7afebecc57834bcae70347f4e94dac5e0a9728c246ea5b725a5"
 metafile = true
 
 [[files]]
@@ -437,28 +372,8 @@ hash = "fc8b37dc3009071f717c7de54dcb789b6aa56162eddc4f831c8e96f7444cbfdd"
 metafile = true
 
 [[files]]
-file = "mods/visual-workbench.pw.toml"
-hash = "5af4ca216a4813516eac9c740f13665fb1913072e08ebe906842c54405b5680b"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "fde5b4407f35051b3c35e2bc04a71540a1ec21832de609c75f79ae24bb2d9f1d"
-metafile = true
-
-[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "045b0c73a67e3ba38635e0759b288b0f7e7cd524c351050f8de154023c043845"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "75b191c621b271734901f012011f22e0c8f5c21ee5de1bfa369ace9540fd1e76"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
