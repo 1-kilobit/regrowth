@@ -5,6 +5,10 @@ file = "automodpack/automodpack-server.json"
 hash = "e32d1b0a756ddefc57ed9f266c8a2cfe9adc1b59b8b02177b0d176acf91b1f9e"
 
 [[files]]
+file = "automodpack/host-modpack/main/.packwizignore"
+hash = "505c2701cda40fe96a919733acf1ca20b6d86aec3449ad7b662784ee04322ca2"
+
+[[files]]
 file = "automodpack/host-modpack/main/config/isxander-main-menu-credits.json"
 hash = "92bfdd1f2e0e7c7bc07cd3db1d95b8ea1648439aadbd0fbe1a9c5b5f9c2c37e7"
 
@@ -110,39 +114,407 @@ hash = "024ab81167c90c77a81797fdc769b7d4b96c2d2be076b5f94ce28c289c05cd1d"
 
 [[files]]
 file = "automodpack/host-modpack/main/config/yosbr/options.txt"
-hash = "79f405655a1082d46f0b8c4ce0b7d6b0c485cd49fc8ce8280b493539a68be9c9"
+hash = "c0c2891bf6794d1abd3ad117161575e602d9e7a39217cd1d4d5670a806a1c775"
 
 [[files]]
-file = "automodpack/host-modpack/main/resourcepacks/Better-Leaves-9.2.zip"
-hash = "0eada3bb5eaa841e85bc35f97e4739b977b77cc2b035b42416092f8df553b90a"
+file = "automodpack/host-modpack/main/mods/3dskinlayers.pw.toml"
+hash = "904b57dc7a3a80a1fdd56c2a3769502a940d3988cc4ee9e8ee9d94ba4cd2f086"
+metafile = true
 
 [[files]]
-file = "automodpack/host-modpack/main/resourcepacks/Chat Reporting Helper.zip"
-hash = "91f3ad272b91dfb10280274aaaa8913ce64a94c9626d22acc95548d7f44b1934"
+file = "automodpack/host-modpack/main/mods/appleskin.pw.toml"
+hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
+metafile = true
 
 [[files]]
-file = "automodpack/host-modpack/main/resourcepacks/F8thful.zip"
-hash = "a8773ac9f6845cc3420b65200e0aaa18c3b88c198016a0f37ac818b9778a4d10"
+file = "automodpack/host-modpack/main/mods/astrocraft.pw.toml"
+hash = "a73cebee4aae6c232d1f044e6cc1cba0365366517e91e7135cbe4fb839de67c3"
+metafile = true
 
 [[files]]
-file = "automodpack/host-modpack/main/resourcepacks/Faithful 32x - 1.21.4.zip"
-hash = "0f64863acb690b3223b98f0f89ac876803b683cc0f9e07706abf99c9599beb90"
+file = "automodpack/host-modpack/main/mods/automodpack.pw.toml"
+hash = "308d836e6795f93a402907e5dd8e47268a78a4bbe9fb8fb9652900f0d092c7ff"
+metafile = true
 
 [[files]]
-file = "automodpack/host-modpack/main/resourcepacks/FreshAnimations_v1.9.3.zip"
-hash = "aa3812ae5fb96a22590ff2ccb53f589a9de9081c11e1432c871cc11fa87c9252"
+file = "automodpack/host-modpack/main/mods/badoptimizations.pw.toml"
+hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
+metafile = true
 
 [[files]]
-file = "automodpack/host-modpack/main/resourcepacks/cubic-sun-moon-v1.8.2a.zip"
-hash = "091a57e186ab01ea44ed41f76ddfadbc4660e1c0716f7e97a249028d40e84f6b"
+file = "automodpack/host-modpack/main/mods/betterf3.pw.toml"
+hash = "cbc0973dadd8e4a191ce8e819f212bcfb58708885b4a46a9de7afa29e71aadad"
+metafile = true
 
 [[files]]
-file = "automodpack/host-modpack/main/shaderpacks/ComplementaryReimagined_r5.5.1.zip"
-hash = "20897248a5fe91b33bf7fd4b75959c30aa2003df195297979a410ee37d3bb62f"
+file = "automodpack/host-modpack/main/mods/c2me-fabric.pw.toml"
+hash = "db16cd34b809cd98e78bf47cd03c8071d71b2b6c4c5e26ef5efed363207bbed2"
+metafile = true
 
 [[files]]
-file = "automodpack/host-modpack/main/shaderpacks/Shrimple_v0.12.zip"
-hash = "702c2497ee23a62f84c920eb897730519e80db04522171a31dce1e9166fb92fb"
+file = "automodpack/host-modpack/main/mods/calcmod.pw.toml"
+hash = "04caaca613928c8d4e1d3015332a74a43be6ee0fd7693011d2aa91f56d13f768"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/capes.pw.toml"
+hash = "c764ec528a8f0a0608129136fa35538e174dea6bcd712285db0a15b2ba685d1f"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/clientsort.pw.toml"
+hash = "06ac499572af46f7e4d51a89e5dfcf7926e498feae86fb15e36b97fcb270deab"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/cloth-config.pw.toml"
+hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/continuity.pw.toml"
+hash = "7986f751d84536043edd1e67178554f6d4c3f01409feae6c151afa7854db5fa2"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/controlify.pw.toml"
+hash = "f82e56c338c03436592a3e9746d0383f0d48e51bcbbf820917a1c40008a486b4"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/controlling.pw.toml"
+hash = "1911f529012bae6e7746e820e56fdcf791e053e9e9c6450fbdf6a23a742d9e8b"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/coroutil.pw.toml"
+hash = "9edcc2fe253cfa858da7eb41fd1a28ba7f83b8ab569699d3da2c7fba7d588fe6"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/cubes-without-borders.pw.toml"
+hash = "f32c30de1ae7dbeeae00b654eb15ea358c6d26f631dc292bdb88dba9c30a8cc8"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/distanthorizons.pw.toml"
+hash = "2ad8cd5745efd0bd0f7f32f060bec092a7b2ef8ac3c6163033193a8277012e43"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/dynamic-fps.pw.toml"
+hash = "34ef3b2634e0c8466530e488cc024ea95dfcf70d378599aa8c8b54d901bff0c5"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/ears.pw.toml"
+hash = "883f5688d32b11100214279e4a04e2a9ba788dc1d99db611a9f1aca946c07c9c"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/entity-model-features.pw.toml"
+hash = "20bd4cbff43edcff50312e24802538df9c264507fa35c8c8713f35401c03bbf8"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/entityculling.pw.toml"
+hash = "8d27571711f951c6d5e23eed5c15c48bf7cf7347a3c03ff396ef4a2fb2baa90f"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/entitytexturefeatures.pw.toml"
+hash = "4ba3ed5a7d60f618df89d9cd776a6ca79f8867090bd47c24ae3e6de6eafe594d"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/esf.pw.toml"
+hash = "a97c934ea59dc0ae8667409437fa9f3063af1946cfb22bf7ceb6f8c8eb9f0bca"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/fabric-api.pw.toml"
+hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/fabric-language-kotlin.pw.toml"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/fabricbettergrass.pw.toml"
+hash = "a6619f77790d0ab7457aaa05fc336250fc53e237234e80e777a30bb4f7873bf5"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/fast-ip-ping.pw.toml"
+hash = "0c689e71c7c6e5893deaa96881213505439e23273cfbb216d918c416c0124458"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/fastquit.pw.toml"
+hash = "08114da8c86093301d6b6e07349709395599c4731626058a27a5395dd6369ff4"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/ferrite-core.pw.toml"
+hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/first-person-model.pw.toml"
+hash = "e37dafa2222acea41769ea46d7e977c150fe25ac3b060469e2a4eb48adec5430"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/fix-keyboard-on-linux.pw.toml"
+hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/forge-config-api-port.pw.toml"
+hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/handful.pw.toml"
+hash = "0c35a39f97caa08f33c8453cad2770891ae128ab742543308387639f0f0f70b0"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/immediatelyfast.pw.toml"
+hash = "5b6cadef65019131a6e7d362b81bb25871330db67ef6c6b1d552e1fbd975e3be"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/iris.pw.toml"
+hash = "e03fc0b0c151c5c072ac399d27b5c4268a093c41be73f3b1578d050bb49211f3"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/krypton.pw.toml"
+hash = "2b699ec9fd674b493af0e52bc3ecbbdb3dc890a6d70f132dc146d5331c0d5b28"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/lambdynamiclights.pw.toml"
+hash = "72028ee2d4464eb37fcdfafb39bab016e265f6f761bfd67dab103d2cb7b18e11"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/language-reload.pw.toml"
+hash = "f27d2387b3236378fca54f60d940a7d543f4c479497735b4a16a334705981103"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/lithium.pw.toml"
+hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/macos-input-fixes.pw.toml"
+hash = "3ba523b0e2a61388644998f4ce0e34bffe2b4bbe59d5b4bd8e467e52fc4fc21a"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/main-menu-credits.pw.toml"
+hash = "732e3a5fb7d7c41c380d1ba92118293db75d5a7f2c05a6df6ac04c54c4bd1a22"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/modelfix.pw.toml"
+hash = "78946e7851174a7462125185cb6306f5bac4fe5b90a3f4396cd8a79d56084661"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/modernfix.pw.toml"
+hash = "a874985359eaa4317b3242136fe65b86207a6d5ab55e0b4aa8f37b90727f0487"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/modmenu.pw.toml"
+hash = "88c6edc1712f4f0cd915cd723b9e0296924d454b3855a719d2962103b2b92bea"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/moreculling.pw.toml"
+hash = "108aae1d2a8f03fffeb5f36e874d378d521f9779cf476e4e60b7f2a8043252f6"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/moremousetweaks.pw.toml"
+hash = "01c56b2540a2380580d67e3a221c74aeea5cc437f9234055b2f25ac566472607"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/mouse-tweaks.pw.toml"
+hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/no-chat-reports.pw.toml"
+hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/noisium.pw.toml"
+hash = "4044051a3cb2ae86edab32775bbe99f2c379afde47d7fe0b1f8ff2897447a59e"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/not-enough-animations.pw.toml"
+hash = "fa77c1b667942c1a1bb5903d97172376e094ba923769cd428eaae02cc0b5ce7a"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/ok-zoomer.pw.toml"
+hash = "a3b6cfe494d8ca3b080ce18d94d3218d7a76545d8b05e3f0b92a2b15c45c97dd"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/optigui.pw.toml"
+hash = "f59ab3633f781c5b5af3234f694da4c4d5195c9211b1ece7e410b54ec1a183eb"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/polytone.pw.toml"
+hash = "b33df2a834b3576200f63aeb2262f43e7b23b7f31355feecf9539d388d9a45e5"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/puzzle.pw.toml"
+hash = "af416ddf58beeb89452503266f7aedf39d4a1c20ccc36c9b40632c22a6b91b7b"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/reeses-sodium-options.pw.toml"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/resolution-control-plus-plus.pw.toml"
+hash = "6189a3ed8000d767e717392521a8fd1efdf4ce01ad82407990c29c7f919df980"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/resourcify.pw.toml"
+hash = "522da8a16ca87bfa21414bfa6f330bda82f081edff21e33d2914c22a3b886b64"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/rrls.pw.toml"
+hash = "343fd56672bf32c8b7718664a05afa0787b5adc9a683144b1b9291f558ece721"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/searchables.pw.toml"
+hash = "7ead84f8df46c7e292fb00079d11aa78d15724398b150db11d06e6713583fcb0"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/servercore.pw.toml"
+hash = "585e3b8144192b82e4fcbc36c4b1d8355789feb034acf8dd0d7f6c46692dd39c"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/shulkerboxtooltip.pw.toml"
+hash = "46d2f0f9eb6e9c09618d92dea45977299330a55bca46fd4e2dda5e45d84ea641"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/simple-voice-chat.pw.toml"
+hash = "fdc2b264bfae9dbef68222edc1c220708df9ecc9bb8fa74b79ce1ebab6fe5355"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/skinshuffle.pw.toml"
+hash = "611e7356de5165e6834c6bf71e1a2405980759602ce61fe82c287bbf62a20cd4"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/sodium-extra.pw.toml"
+hash = "56a0e243140dc1dbdb89c5a7a1cbcbe6e8d6da5499242bd1eabf548bbb8e3481"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/sodium.pw.toml"
+hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/sound-physics-remastered.pw.toml"
+hash = "bb2f4145fdc981a3a54283567005b0ca59bda0458cda20781ab7e82a43477f76"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/threadtweak.pw.toml"
+hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/vmp-fabric.pw.toml"
+hash = "d3de87a755bc307790ae85f03dab53eddec2b19d906e4b5016e0e0c5004d65d0"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/what-are-they-up-to.pw.toml"
+hash = "045b0c73a67e3ba38635e0759b288b0f7e7cd524c351050f8de154023c043845"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/world-host.pw.toml"
+hash = "4b34d0b0a337960b15a16b5cb57081f0eb76bf408c0670b8238d0bf713226dbe"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/yacl.pw.toml"
+hash = "e9b1a059e78cb42dbc46c30f7b16d28b1bb0df20f85f53d28992ea278214a511"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/resourcepacks/better-leaves.pw.toml"
+hash = "5507b242a9db7237f92f75009d0036fc606ccbde30de9ad520dac873812126ab"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/resourcepacks/chat-reporting-helper.pw.toml"
+hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/resourcepacks/cubic-sun-moon.pw.toml"
+hash = "f5e98012cc353ad12cb6cd0a272dc4e3ade24cbd4cd726fdb4b756c8abf095f6"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/resourcepacks/f8thful.pw.toml"
+hash = "adbe0e8b94d0253c6a8d202393f44153570560060740da35a10f4ca9ce26818a"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/resourcepacks/faithful-32x.pw.toml"
+hash = "3e8b5309e27392a7d965612ef85f47b0507bdacedf3882e3490f9a66188579a5"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/resourcepacks/fresh-animations.pw.toml"
+hash = "8a9f38930714c828285ac7c422302380d939d80384a90ed1148d6d26e8863870"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/shaderpacks/complementary-reimagined.pw.toml"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
+metafile = true
+
+[[files]]
+file = "automodpack/host-modpack/main/shaderpacks/shrimple.pw.toml"
+hash = "79733fc3a9a56bf32a40b4d79e4095747e0d010688887c76cc7a1e7db206d30a"
+metafile = true
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"

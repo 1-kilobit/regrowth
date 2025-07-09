@@ -106,7 +106,7 @@ hash = "024ab81167c90c77a81797fdc769b7d4b96c2d2be076b5f94ce28c289c05cd1d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "79f405655a1082d46f0b8c4ce0b7d6b0c485cd49fc8ce8280b493539a68be9c9"
+hash = "c0c2891bf6794d1abd3ad117161575e602d9e7a39217cd1d4d5670a806a1c775"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
