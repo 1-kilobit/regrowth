@@ -264,6 +264,11 @@ hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
+metafile = true
+
+[[files]]
 file = "mods/handful.pw.toml"
 hash = "0c35a39f97caa08f33c8453cad2770891ae128ab742543308387639f0f0f70b0"
 metafile = true
@@ -386,6 +391,11 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "522da8a16ca87bfa21414bfa6f330bda82f081edff21e33d2914c22a3b886b64"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "343fd56672bf32c8b7718664a05afa0787b5adc9a683144b1b9291f558ece721"
 metafile = true
 
 [[files]]
