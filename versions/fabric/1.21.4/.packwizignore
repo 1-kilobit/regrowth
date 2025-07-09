@@ -1,2 +1,3 @@
 /automodpack/host-modpack/main/pack.toml
 /automodpack/host-modpack/main/index.toml
+*.mrpack
