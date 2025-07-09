@@ -1,0 +1,13 @@
+name = "No Enderman Grief"
+filename = "NoEndermanGrief-[1.21]-v.2.1.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ss02V75k/versions/kZzRumMo/NoEndermanGrief-%5B1.21%5D-v.2.1.2.zip"
+hash-format = "sha512"
+hash = "218851ffcf30364be41de850a37d010eae2d05d2e2313a86b43b0aadceca77f2c40db527ca69cd781efc8cd9b9af5b18b181c4f4cbe212fab084e3bc5c30b9a3"
+
+[update]
+[update.modrinth]
+mod-id = "ss02V75k"
+version = "kZzRumMo"

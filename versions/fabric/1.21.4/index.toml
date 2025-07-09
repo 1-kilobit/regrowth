@@ -81,10 +81,6 @@ file = "automodpack/host-modpack/main/config/yosbr/config/puzzle.json"
 hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
 [[files]]
-file = "automodpack/host-modpack/main/config/yosbr/config/resourcepackoverrides.json"
-hash = "062fdd31a2ec3d4046e43d2600b653c80c4c6cd1ea4448a42fed2d264bbad5d0"
-
-[[files]]
 file = "automodpack/host-modpack/main/config/yosbr/config/ryoamiclights.toml"
 hash = "d6afc19db2764da5ae94c735f9544987a5a4686305d1478d31fdca800a94444c"
 
@@ -114,283 +110,7 @@ hash = "024ab81167c90c77a81797fdc769b7d4b96c2d2be076b5f94ce28c289c05cd1d"
 
 [[files]]
 file = "automodpack/host-modpack/main/config/yosbr/options.txt"
-hash = "a737dd82279403a1a22b4dcd1fa3f99915f4feac38879042a8b1da6a4ccac199"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/BadOptimizations-2.2.2-1.21.2-21.5.jar"
-hash = "adea4d977d025070a1b63890aeeebbafb3ec535859c8a574ed77aae531f5c690"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/BetterF3-13.0.0-Fabric-1.21.4.jar"
-hash = "a49a66f0e6947e4c2810ca161e622ee64ad4f3356245133f27b8f57ce922e798"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/BetterGrassify-1.6.0+fabric.1.21.4.jar"
-hash = "acd098fc1dff533de3028d1ed64f5eebaed39de4617c4b370befdb2fe0c95336"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/Controlling-fabric-1.21.4-22.0.5.jar"
-hash = "4e39a8456b8f0f4411cf76e22016fb12cb12fada52a3426ca6f443c5258326c4"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/FastItemFrames-v21.4.4-1.21.4-Fabric.jar"
-hash = "c0b91658eb6b18076d9252bc1887923bedea396eddf653501f2cd25ebca70839"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/ForgeConfigAPIPort-v21.4.1-1.21.4-Fabric.jar"
-hash = "1e1f2e3f0f0385bc705c3cab9ef71a532ae22840bf69bf71d4aba58f59456dd6"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/GlitchCore-fabric-1.21.4-2.3.0.4.jar"
-hash = "ecec3dc01e33dae1e4676e5270b3fa067b8f5ce66f120d7d7bdd3c72ebe08fdc"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/Handful-1.0.0-fabric+mc1.21.4.jar"
-hash = "2494e7f7fd2c3802ae97564b3d3f72c0e2e7f85928414cd7490cc3ed88cbca09"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/ImmediatelyFast-Fabric-1.8.0+1.21.4.jar"
-hash = "1309e2274f1f776b15d72196cd976531e415e0490440e9f88f9064c432bf94fd"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/MouseTweaks-fabric-mc1.21.3-2.27.jar"
-hash = "82aaa759bb702c5b958e1d8f9ae0935213e50a9588dce8be0cbfb5074121bc48"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/NoChatReports-FABRIC-1.21.4-v2.11.0.jar"
-hash = "d633096f0e702ff3f0b0d4841ece0c1c9a63caf3d585b8623f9f5d9d74502702"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/PuzzlesLib-v21.4.13-1.21.4-Fabric.jar"
-hash = "39f4152f86413a52ca41816e585ee6357ac1b18769dfcf2bcd465e4750048d48"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/ResourcePackOverrides-v21.4.0-1.21.4-Fabric.jar"
-hash = "79e3713120dc93bea17bc175737e4c0f4b618cc5654c4830f499b706325a689d"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/Searchables-fabric-1.21.4-1.0.3.jar"
-hash = "80cbf2d53b8ff4629e84f45a818fa3a92dd17830d45207688f94da7efad7b21b"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/SereneSeasons-fabric-1.21.4-10.4.0.6.jar"
-hash = "a8c26cb1748e4ad144bd45d533a86e6cce2f005d0438358b26aa2620ed23047c"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/SkinShuffle-2.9.1+1.21.4.jar"
-hash = "ebd47e383599886815658564550918522b45c55faef8ec981a898dca2dbae70b"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/VisualWorkbench-v21.4.1-1.21.4-Fabric.jar"
-hash = "a150e6ec0ab08207362ddff6a705a13d8790c5da215f337a8efe6ebc955036b5"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/appleskin-fabric-mc1.21.3-3.0.6.jar"
-hash = "f8f611746df88f1737b62a76615a366f42a331730ea16db97c52d6f5540c58ab"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/astrocraft-1.5.1+1.21.4.jar"
-hash = "153b12c2fe81f904f249d5ca11d7ff90423de23983a14935811d7ffc8615f1f3"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/calcmod-1.3.3+fabric.1.21.4.jar"
-hash = "f7ff216f459b60d5c63aac16efd636afeae3555796b6aa4575dbc6c667f9dd34"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/capes-1.5.5+1.21.4-fabric.jar"
-hash = "44f8759646ade8eb835857e3a0d1ecbc5d150914d0bacac280db2b2a5ee71d05"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/clientsort-fabric-1.3.3+1.21.3.jar"
-hash = "20d2d7777473196d8e1343e2b5aa22a7b34f3144f562f14a3d6cce4135faebc2"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/cloth-config-17.0.144-fabric.jar"
-hash = "1fda0c4a89d4f075e51b3eb5570a4912870656d252d806ea3091d2bbc06781ea"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/continuity-3.0.0+1.21.4.jar"
-hash = "15532119b71eb17796195a57d21289b30ada0c9e92995fbea170ca59e656e5bb"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/controlify-2.1.2+1.21.4-fabric.jar"
-hash = "3a5c7d260308f273cacdd62949c4499b825e4fac2e7b5a98f372a2c5ed848662"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/coroutil-fabric-1.21.4-1.3.8.jar"
-hash = "b784efe3b68ec02fd566522593e7d7e0052e2a7e1d21b770ce3723d669ceb2a7"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/countereds_terrain_slabs-1.5.0.jar"
-hash = "51c849bf44694230b26375de00bd570deb4d97b48e198f9a5c37daadae06f80a"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/cwb-fabric-3.0.0+mc1.21.3.jar"
-hash = "0e2fe3c8d60a4987680d8b6c1bb5d44479de80a26ec042f22138ec4b73a8e22d"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/dynamic-fps-3.9.4+minecraft-1.21.2-fabric.jar"
-hash = "ba6148154be2c3c7b0360118f8b21f8079e0635bf6a964cf70a66bb26258f118"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/ears-fabric-1.21.4-1.4.7_01.jar"
-hash = "d4db214d90d1e0b31e0ab18fa7f0cf845df3770e8994adf9a86be59e73f6a488"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/entity_model_features_fabric_1.21.4-2.4.1.jar"
-hash = "0c9123d9cbeb5085bb167422dee745c2f9942001163cc3fe80b4b0f55981a42a"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/entity_sound_features_fabric_1.21.4-0.6.jar"
-hash = "cc0faf6c92c4adeabd2aabd7d5a04a2d6a76368e35ea538b99772e67dfd6a5f5"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/entity_texture_features_fabric_1.21.4-6.2.10.jar"
-hash = "30875192e8fdcdc2e5add10cfb3e8a97e7096095e7783868bb91c989598114b1"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/entityculling-fabric-1.7.4-mc1.21.4.jar"
-hash = "2c0a03dca35337a607f71f55a2714ec890f5e650e19e9be1d7ea076e8df419a8"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/exordium-fabric-1.4.1-mc1.21.4.jar"
-hash = "663a5a9b36cb5f522c5aee42182855db2c482089f4f073b8d1a0a1f27c403860"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/fabric-api-0.119.2+1.21.4.jar"
-hash = "0a7e37d1577217d764bc4a41fd144961ce6e4db1ef5e2b40ba5f280d4119ad0a"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar"
-hash = "d1de7cd78df3a8c6c86b38238bfd69140d1bf0ead5d8ef5bba48cf3ca1342d8b"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/fastquit-3.0.0+1.21.4.jar"
-hash = "bc800711a9c2fdd1614f1a88527b6514a79a5fb1fae6bafb00dd2c2188062510"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/ferritecore-7.1.1-fabric.jar"
-hash = "0dd5e9203552024e38e73a0f5b46a82eb66f0318b23289c6842b268663274a79"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/firstperson-fabric-2.4.9-mc1.21.4.jar"
-hash = "1d2618f5faaa8385e0cd554aba92fc2f347cc022da184b2f59fe84ff15bbf60e"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/fix-keyboard-on-linux-1.0.1.jar"
-hash = "1e2789b89e4d2acf3893812e51099c3af6560bfa22f4ae7f07fa8e6b1af1f525"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/iris-fabric-1.8.8+mc1.21.4.jar"
-hash = "70571b23d4de17ae380515fb4c9dadd82d96f7ec1b573553858a07bb80445da9"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/lambdynamiclights-4.1.2+1.21.4.jar"
-hash = "84a8259b3d7d1e2979c0c7236d1a871f4a589bb68a8e5505bf68bc4066373872"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/language-reload-1.7.3+1.21.4.jar"
-hash = "4fe0554d940bd8b0415f7124e6f9165c9b8628997daa3310f6530e5d7b2a6b4f"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/lithium-fabric-0.15.3+mc1.21.4.jar"
-hash = "153891e8d6988fedffa5098851a725a137c3e5ca04a89a8df409feb313623eb4"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/macos-input-fixes-1.8.jar"
-hash = "47e55106c06fc57f7d348a07cf6d33cde55bb9647c5f236360100c8b86031f5b"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/main-menu-credits-1.2.0.jar"
-hash = "b2f425db894dd38ee18f04fcbd1967886ddf1ca608940fd6fd3fda1c4e821f28"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/modelfix-1.21.3-1.10-fabric.jar"
-hash = "87e046a7699b3bbf61af858cc69d3c6df808e4b153d89549d696797b84b6f136"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/modernfix-fabric-5.20.3+mc1.21.4.jar"
-hash = "ceb435e5287352dc355edcb5cb1c4efe7f316287e96804d217d7b011ea84fdde"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/modmenu-13.0.3.jar"
-hash = "6a50521e2bc11fa33f88973eb096995fd161bbbbab504a777ae7eadc51eebaf9"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/moremousetweaks-fabric-1.0.2+1.21.4.jar"
-hash = "f4dfb5f919e0ba291085bde4a4d91e0dcf1ac549fd990f0373d4e436a008969b"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/noisium-fabric-2.5.0+mc1.21.4.jar"
-hash = "26649b7c5dc80da0b50627d1f1668a142a5a9ba9c7941590cd5af20d1e96beda"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/notenoughanimations-fabric-1.10.0-mc1.21.4.jar"
-hash = "8c659c3e472053967d210a4c861c84bd8542e8ad42be0c355ef6c4241c3342a7"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/ok_zoomer-fabric-12.0.0-beta.5.jar"
-hash = "e2b18b62912f1f2ab89de73d0394798175c923f396ae4b1420287d4d684887ca"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/optigui-2.3.0-beta.7+1.21.2.jar"
-hash = "657a1c9427c6246932016a74504ec4265580feff1801c804b2938133aa127f51"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/polytone-1.21.4-3.3.13-fabric.jar"
-hash = "2391b60263ddb4f508b019e838f7cd08cdf3bce25ee61dad362cbd276136c9e5"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/puzzle-fabric-2.0.5+1.21.4.jar"
-hash = "aaf784c4993bd7304d766e76fb3ea49950a9d4a34de81adbf7499a86b546ebf6"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar"
-hash = "b42fc0424050f076c8e1f77b7549e48ec6e07605fbf868ed5d0ef47848665dd2"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/resolution-control-plus-plus-1.21.4-3.0.3.jar"
-hash = "968a52eba965bf103dd41eba2583a86667de94a4be79b92646fa95f508a806bb"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/shulkerboxtooltip-fabric-5.2.6+1.21.4.jar"
-hash = "b3e5137e03f03b31eb9d579a80d087e34764c018e5d790e583a193d73fe8f560"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/sodium-extra-fabric-0.6.1+mc1.21.4.jar"
-hash = "c621f2b4575edf3eea1e18134dcf6e19bb8d882e471583b891f37609241d03e4"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/sodium-fabric-0.6.13+mc1.21.4.jar"
-hash = "92b79623fc00f0f948005a0ae416cb42a51646f2423b4036e27e867e4001a47e"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/sound-physics-remastered-fabric-1.21.4-1.4.12.jar"
-hash = "421e2003ac12fad2f13dc2a055d40fe6922bae44fa2b0bfdb630e374bd9e72e0"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/threadtweak-fabric-0.1.7+mc1.21.5.jar"
-hash = "07b0da7a11a7dd8426c2f2bed8f5b9d2bcd67719f5b478f09f68792c7e60c923"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/voicechat-fabric-1.21.4-2.5.32.jar"
-hash = "15904e26b1eabfbf2596af4cf24612170ae7a1f18d73a95c565b13fa0ebea50a"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/watut-fabric-1.21.4-1.2.5.jar"
-hash = "43033926577c38f9350c92afe9095e7617994dce1ef472edbd4983f157ba00a5"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/world-host-0.5.2+1.21.4-fabric.jar"
-hash = "cbad1759de8e5bb883b5df227ec761f6d92d36e3ae4e3e4396a4e1b690a805d1"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/yet_another_config_lib_v3-3.6.6+1.21.4-fabric.jar"
-hash = "740d43a43f7dfae4a7debe2fd96a93a6c49f6b68eba4e89ef1de8706ce404fad"
-
-[[files]]
-file = "automodpack/host-modpack/main/mods/yosbr-0.1.2.jar"
-hash = "db4c744fd71f5617639cb0fdff72378b08d2852004f4045c62090de1bf53afcb"
+hash = "79f405655a1082d46f0b8c4ce0b7d6b0c485cd49fc8ce8280b493539a68be9c9"
 
 [[files]]
 file = "automodpack/host-modpack/main/resourcepacks/Better-Leaves-9.2.zip"
@@ -426,87 +146,105 @@ hash = "702c2497ee23a62f84c920eb897730519e80db04522171a31dce1e9166fb92fb"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "9383c4a54ea98ef810d26f14d2fc29e576c1d6c141eae9785688c411a140516d"
+hash = "923db38bbc267c97173dde82eef87c1edafa629a0e3f8a3f0debb39505cf23cb"
 
 [[files]]
-file = "config/yosbr/config/MiniMOTD/icons/sapling32.png"
-hash = "b08b5a2210b422c6317b7fa6175c2cb7161b30442da7faef3b1665e0eb85c9b7"
+file = "config/yosbr/config/MiniMOTD/icons/sapling128.png"
+hash = "0e58247d840801f6279b82f9292097f4d56bde669da0546d64bb3fb8ecca86b1"
 
 [[files]]
 file = "config/yosbr/config/MiniMOTD/main.conf"
 hash = "f5cf8d973f2a2bcdac9f2ff275cde0ece6473c1c8756f59e271f8d50158e1eb1"
 
 [[files]]
-file = "config/yosbr/config/bluemap/core.conf"
-hash = "ed2c527d1f457f4e140ffa7eb9bc96ed5286e2796120849e744b0a49e51432a5"
-
-[[files]]
-file = "config/yosbr/config/bluemap/webserver.conf"
-hash = "552ffb7c30fea0a225586ac00dae48ac231312589f895da0a38a4a957bee5493"
-
-[[files]]
 file = "config/yosbr/config/mobcap_modifier.json5"
-hash = "ed83807a1dbbcfbfeeafd52702739d214bdea983ed51ba698a78227982866d4e"
+hash = "e6a0b304629494800477166f90cccb9cdc9829fe1626ce70398849ea30cdd8ca"
+
+[[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
+
+[[files]]
+file = "config/yosbr/config/servercore/config.yml"
+hash = "7ed78d3273aebb454ea062b841297b6a498364b997596383354402487e0e0434"
+
+[[files]]
+file = "config/yosbr/config/servercore/optimizations.yml"
+hash = "c1347aa983b02f5e59fcbd4f931501e2705330c5cf25e723d3239b85e6b6e262"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
 hash = "ed82e859a23e86efc2a2b4872702106c6fec877bdfdea1c1bcbca740ceed5172"
 
 [[files]]
-file = "datapacks/Amplified_Nether_1.21_v1.2.9.zip"
-hash = "cfd81c73def89d5fdedd00b1b4b5f99e9af2965bd389726188ecd7b26b6f025f"
+file = "datapacks/amplified-nether.pw.toml"
+hash = "ab4c8bbca98f050fbfb2de4ff0c95ab160327118d45b7fed18400309fe0f4690"
+metafile = true
 
 [[files]]
-file = "datapacks/Blasting Plus 1.4.zip"
-hash = "3e6e70352f1fda104e112794c2ae1f4d6090082453957f8fa4f435deb16c3cfc"
+file = "datapacks/blasting-plus.pw.toml"
+hash = "effffcebacc6babe8faf25c4687f57db2198cfa036f9d345622093ed06f7a62a"
+metafile = true
 
 [[files]]
-file = "datapacks/Continents_1.21_v1.1.9.zip"
-hash = "3fafc56b776cec33e90499fcdb1ac94513b7ae04fc556cecb6ae55c82ac2da53"
+file = "datapacks/continents.pw.toml"
+hash = "2872b95082f4b28e79f8d5f716d41cf29c0c6b4b75644ccd61d26fbd829c5ce8"
+metafile = true
 
 [[files]]
-file = "datapacks/DnT Ancient City Overhaul v3.zip"
-hash = "ffc65e8d6b9caccdfc390908fc75fb8f9bef11c0fd35dcec3057795772f88dbe"
+file = "datapacks/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "513743133ee16d3df84b092e0e4186b6a02c4686266221fbc6f11e4420f1ba86"
+metafile = true
 
 [[files]]
-file = "datapacks/DnT Pillager Outpost Overhaul v3.1.zip"
-hash = "98a4b11a396565c83d63c42ac2952f4b50bce8b6ef45f348468b0f43389849cb"
+file = "datapacks/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
+hash = "9464104e1318059b165ba619816fa1f3b2851d198babdf7fe5c1d2081f44c13c"
+metafile = true
 
 [[files]]
-file = "datapacks/Fortunate Ancient Debris v3.4 (1.20-1.21.5).zip"
-hash = "6cc6022edfa39095adb941b65a403d28a56ca173b484c8bf12f016985ef63c46"
+file = "datapacks/fortunate-ancient-debris.pw.toml"
+hash = "116916bdafd14719294978c8438adda28817c249b3bf6cd1c552aa4095630a32"
+metafile = true
 
 [[files]]
-file = "datapacks/NoEndermanGrief-[1.21]-v.2.1.2.zip"
-hash = "0cd1cf749ff8c20dd93a458af00aa2c3e4be283733264b7591326f7b19ae876f"
+file = "datapacks/ibo.pw.toml"
+hash = "6a502eee7a952d1b7c59ea6b757b2741f0ee64c9c695f9c0f96f24bcd1e414c5"
+metafile = true
 
 [[files]]
-file = "datapacks/Nullscape_1.21_v1.2.12.zip"
-hash = "60d4bfa28d04cdcaf9fc0bf74178de888cc52b7a13131ada3c23d512058f999e"
+file = "datapacks/incendium.pw.toml"
+hash = "3b9148316d33630109898d716ac10f99716d8e3b6ae5359289a4153bd1e63fce"
+metafile = true
 
 [[files]]
-file = "datapacks/Remove_Terralith_Intro_Message_v1.1.zip"
-hash = "2158d806fef74938eb72aa28ebedf2ba9961064a69a60252e5c6024c84dca130"
+file = "datapacks/no-enderman-grief.pw.toml"
+hash = "d64a21304af4d306d7b0254f093c7dc49436c1e908e2b325394571876db0392b"
+metafile = true
 
 [[files]]
-file = "datapacks/Smoking Plus 1.1.zip"
-hash = "d94c28607e32f9fc52f855f4665515429111715c2d665a0f585f74ed00821a2d"
+file = "datapacks/nullscape.pw.toml"
+hash = "40e996559aa09682da7e9d8a2f181b188d11a5ce949413e8e7b6eb7bc2728a72"
+metafile = true
 
 [[files]]
-file = "datapacks/Terralith_1.21_v2.5.8.zip"
-hash = "d0f5b0f88152d494cb51c6c06f2b5e52617df9860b2f383d00c85338d81ab164"
+file = "datapacks/remove-terralith-intro-message.pw.toml"
+hash = "61afee8a5c7f1ee206d67e54ed74acbe344876ca2bc43b6f7101c5b413426762"
+metafile = true
 
 [[files]]
-file = "datapacks/Terralith_ReStoned_v1.1.zip"
-hash = "7a69d8a276de6052d17921e8741fc53d5a28c60ea9887d0ade296eee3e10e372"
+file = "datapacks/smoking-plus.pw.toml"
+hash = "e2362b484ecd3369678a6f5cb2953e6349c014433485f40e9f6fd7a6c86d1d79"
+metafile = true
 
 [[files]]
-file = "datapacks/ibo-3.0.0-datapack.zip"
-hash = "a748b6364eb34f4a9690874df67440b98c71ffa6196b38b7f7d9acc1ee319826"
+file = "datapacks/terralith-restoned.pw.toml"
+hash = "a18cf7a08b9e0c9a8afa1471a7ba6db2b233fb57360b9f8c15086d4ec5399446"
+metafile = true
 
 [[files]]
-file = "datapacks/spawnanimations-v1.10.2-mc1.17-1.21.6-datapack.zip"
-hash = "c4597b3c4894a760ab9e994d655f7dd60271ada32f3a4868232acf8bd751f8d9"
+file = "datapacks/terralith.pw.toml"
+hash = "aa0803cc84f250f1900e5efcfcf24c54d140f168401b0c29dac852a574cc2cc7"
+metafile = true
 
 [[files]]
 file = "mods/anti-xray.pw.toml"
@@ -535,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "62e99d55c3f95e732fbbb23572c70bd030a6c89f90844b8a74d1e527c0183696"
+hash = "db16cd34b809cd98e78bf47cd03c8071d71b2b6c4c5e26ef5efed363207bbed2"
 metafile = true
 
 [[files]]
@@ -564,18 +302,13 @@ hash = "9ebd77a129fd9b2b635c290e037c0a8c4520cc3ea1f64448d1e5ef599ab4ed5b"
 metafile = true
 
 [[files]]
-file = "mods/countereds-terrain-slabs.pw.toml"
-hash = "c8ed93e459a05c75e36fc7252571c08c1cf0f4b7c086716de7401cdf01067049"
-metafile = true
-
-[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "bd31c2f58a8318819b0dbd35681015c90e2e8b2ff2552de7e0db90fec2857322"
 metafile = true
 
 [[files]]
-file = "mods/dataloader.pw.toml"
-hash = "7c6243cb0903bb8f900eaa0d64b2cd34d98630780065bc2d2b05e4d19fc2ce32"
+file = "mods/distanthorizons.pw.toml"
+hash = "2ad8cd5745efd0bd0f7f32f060bec092a7b2ef8ac3c6163033193a8277012e43"
 metafile = true
 
 [[files]]
@@ -589,23 +322,8 @@ hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port.pw.toml"
-hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
-metafile = true
-
-[[files]]
-file = "mods/glitchcore.pw.toml"
-hash = "a2c985cf1b1774fe4e06a766c147bfa3e68e8cb16ce960c3f9c8a125de4777cf"
-metafile = true
-
-[[files]]
 file = "mods/im-fast.pw.toml"
 hash = "b72278fbe5e56c676b767e7c59fa2f4e2ecde955e63e29723249552e600deba2"
-metafile = true
-
-[[files]]
-file = "mods/immersive-snow.pw.toml"
-hash = "3a51ecf743a24ac5a93cfe8b6168ac21cf4c923d9f8715b98a58590c9f216f77"
 metafile = true
 
 [[files]]
@@ -615,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
+hash = "2b699ec9fd674b493af0e52bc3ecbbdb3dc890a6d70f132dc146d5331c0d5b28"
 metafile = true
 
 [[files]]
@@ -650,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
+hash = "4044051a3cb2ae86edab32775bbe99f2c379afde47d7fe0b1f8ff2897447a59e"
 metafile = true
 
 [[files]]
@@ -659,18 +377,8 @@ hash = "15c28c5e5d1bea0eef726348a7dd3d6cbbb9554399eedf93b59ab657ab80c2e5"
 metafile = true
 
 [[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "cdff637d469d95a02e8e7475fce950c0d25bdacf8ae1246c93eea78ad7e16d39"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "9a52c0abc1a0ea0162a0c6700ed0d89d0dc5b073c80b09339cfb602d16e2686e"
-metafile = true
-
-[[files]]
 file = "mods/servercore.pw.toml"
-hash = "55cb0143330095f2132926ff85dd7264d627880e709bffea1bd1e03edc7eddbf"
+hash = "585e3b8144192b82e4fcbc36c4b1d8355789feb034acf8dd0d7f6c46692dd39c"
 metafile = true
 
 [[files]]
@@ -694,18 +402,18 @@ hash = "03779db3c7cbf7d5853647c3e800880468f8aeffb4bc7be174bbb0e243b0ea1a"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-refresh.pw.toml"
+hash = "9e7548c59397e7afebecc57834bcae70347f4e94dac5e0a9728c246ea5b725a5"
+metafile = true
+
+[[files]]
 file = "mods/view-distance-fix.pw.toml"
 hash = "fc8b37dc3009071f717c7de54dcb789b6aa56162eddc4f831c8e96f7444cbfdd"
 metafile = true
 
 [[files]]
-file = "mods/visual-workbench.pw.toml"
-hash = "5af4ca216a4813516eac9c740f13665fb1913072e08ebe906842c54405b5680b"
-metafile = true
-
-[[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "fde5b4407f35051b3c35e2bc04a71540a1ec21832de609c75f79ae24bb2d9f1d"
+hash = "d3de87a755bc307790ae85f03dab53eddec2b19d906e4b5016e0e0c5004d65d0"
 metafile = true
 
 [[files]]
@@ -715,12 +423,12 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "75b191c621b271734901f012011f22e0c8f5c21ee5de1bfa369ace9540fd1e76"
+hash = "e9b1a059e78cb42dbc46c30f7b16d28b1bb0df20f85f53d28992ea278214a511"
 metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
@@ -780,4 +488,4 @@ metafile = true
 
 [[files]]
 file = "server.properties"
-hash = "2043aed04d33d58e6a28383420837ee87497071b3aa6a656119e859c341649ea"
+hash = "3ea13dd9c93aa8f7876214e2f6f92a5dcd45b34418dc5912971616f8122db722"

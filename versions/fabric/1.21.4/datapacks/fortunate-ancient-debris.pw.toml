@@ -1,0 +1,13 @@
+name = "Fortunate Ancient Debris"
+filename = "Fortunate Ancient Debris v3.4 (1.20-1.21.5).zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eBvPjIeN/versions/tArKgZdz/Fortunate%20Ancient%20Debris%20v3.4%20%281.20-1.21.5%29.zip"
+hash-format = "sha512"
+hash = "bcb4106ea8dbdcbbaee4e320a420a55e08c604b22f79932b7971f7ffdd87562b59ee2c1bd865046a4506820ac22c4f5ac882b72e381c8f57705348453551ccd7"
+
+[update]
+[update.modrinth]
+mod-id = "eBvPjIeN"
+version = "tArKgZdz"

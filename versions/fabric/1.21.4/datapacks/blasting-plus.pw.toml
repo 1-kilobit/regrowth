@@ -1,0 +1,13 @@
+name = "Blasting Plus"
+filename = "Blasting Plus 1.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bSKJNoQF/versions/dlPnYSaj/Blasting%20Plus%201.4.zip"
+hash-format = "sha512"
+hash = "55d322abbeb53071a9057b808c9e5734f7c4d7e0380ea1d0cd499df5b69c32b5eed46528a434e8f681d599383393589ee21fc0f9b3400469351d6bbdee2c5684"
+
+[update]
+[update.modrinth]
+mod-id = "bSKJNoQF"
+version = "dlPnYSaj"

@@ -1,0 +1,13 @@
+name = "Handful"
+filename = "Handful-1.0.0-fabric+mc1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pOinkRyW/versions/6vKOkEBb/Handful-1.0.0-fabric%2Bmc1.21.4.jar"
+hash-format = "sha512"
+hash = "a273152a5a0235851eeb15bb21d3d531de081aa1a82d0f9d5db2339e129a8bbfad949b8901f2297e0369e8551411031d72bfe7c980b16a86d3e6d78d82f2364f"
+
+[update]
+[update.modrinth]
+mod-id = "pOinkRyW"
+version = "6vKOkEBb"
